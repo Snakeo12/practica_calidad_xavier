@@ -1,4 +1,4 @@
-Dockerfile 
+
 
 # 1. Definimos la imagen base (el sistema operativo miniatura) 
 
